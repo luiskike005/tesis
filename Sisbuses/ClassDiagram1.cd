@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sisbuses.respaldo" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAIAAkFECAAAAAAAACAAAACCEAAIAAACIAAQAIAACA=</HashCode>
+      <FileName>backup\respaldo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.bus" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIQACBEmCCBgABAACABABCAAiQYAAKiAgAoIIBBAA=</HashCode>
+      <FileName>buses\bus.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.conductor" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIQACBEmCCBgABAACABABCAACQIAgCCAAAIIIBRDA=</HashCode>
+      <FileName>conductores\conductor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.descuento" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAMQACBEmCABgADAACAJABCAACQIgACCAAkIIIDBIA=</HashCode>
+      <FileName>descuentos\descuento.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.destino" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAIQUCFUnCAJgAhAASAAAACAKAZoYwASwEMIAKABAA=</HashCode>
+      <FileName>destinos\destino.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbus" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABAEqAyJAgQNBBCgAQARACFgCaDwAKYACAAFBFhI=</HashCode>
+      <FileName>dtsisbus.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.busqgastos" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAIAMCBUGBACEAAQACAAAAGECAQIAAACgEAEAAABAA=</HashCode>
+      <FileName>gastos\busqgastos.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.gasto" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIQICBEmCBDgABAACABIBCAACQIAACCAACMIIBBIA=</HashCode>
+      <FileName>gastos\gasto.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.consultahorario" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIQECBUGAAAgAACACAAAADBKAYoAAACpEIAAKADAA=</HashCode>
+      <FileName>horarios\consultahorario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.horario" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAIQYClUnLALgCAAASAABCCAIAaoaBACEwBoAKIBBA=</HashCode>
+      <FileName>horarios\horario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.listatickets" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>infor\listatickets.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.Cachedlistatickets" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>infor\listatickets.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Sisbuses.reportedestinos" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>infor\reportedestinos.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.Cachedreportedestinos" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>infor\reportedestinos.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Sisbuses.rgastos" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>infor\rgastos.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.Cachedrgastos" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>infor\rgastos.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Sisbuses.rhorario" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>infor\rhorario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.Cachedrhorario" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>infor\rhorario.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Sisbuses.tickets" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAgAAAAAAAAAQAAABAAAAAAA=</HashCode>
+      <FileName>infor\tickets.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.Cachedtickets" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>infor\tickets.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Sisbuses.informe" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AVAEAIAAAGAACAAAAACBABADAIAAhAAAAQAEAAAABQA=</HashCode>
+      <FileName>informes\informe.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.login" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAQAHEAAAAAAACAAMACAAAAAAAACEEAAAAABIQ=</HashCode>
+      <FileName>login\login.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.datosempresa" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAIwAABEmEEAAAARECAAAAigWFxIAAACAACKAAABQA=</HashCode>
+      <FileName>opciones\datosempresa.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.principal" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCBACABAADBwAYqAAIGgQIICgBBCAAAEIgAABIB0AAY=</HashCode>
+      <FileName>principal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.ruta" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIQAGBEmCABkABAACABAJCAICQoAgCCAAAIIIBBAA=</HashCode>
+      <FileName>rutas\ruta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.consulticket" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQBMAECBUGAAAAAAAACACAADBKAQpACASpEIAgCAHAA=</HashCode>
+      <FileName>tickets\consulticket.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.ticket" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIQEABGmACAAGCAkCAIAACkIARoAAgCUgkEACABAA=</HashCode>
+      <FileName>tickets\ticket.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.verticket" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAMAECBUGAAAECiAgCAAAADBAARIAAACEgAEAAABAA=</HashCode>
+      <FileName>tickets\verticket.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.tilemenu" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACIgAQBIRgCAggCC/wEBAAACAAAABCAAAAg=</HashCode>
+      <FileName>tilemenu.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.clave" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIwEBRUmAACAEAAACAAEACAAIAIAAACAAQAAAABAA=</HashCode>
+      <FileName>usuarios\clave.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.regusuario" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIRASREmCABggBAACABGBCcEKQIAAiCAAAIIIBBAg=</HashCode>
+      <FileName>usuarios\regusuario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.usuariosTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAEmAAEABGAAcAIAIAEAAEACAICABAEAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.opcionesTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAGAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.descuentosTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAACcAcAIAIQAAAABCAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.gastosTableAdapter" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIABAAACAASCICAAAAAAIAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.rutaTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAACAAeAIAKAAAAAACAICAAAAAQAAAAABRA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.destinoTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAACAAcAIACAAAgAACEICAAIAAAAAKAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.busTableAdapter" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASACGAAEAAAAAcQIABAAAQAASAICAAAAAAAAAAABJA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.conductorTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcBIAJAAAAEASEICAAAAAAAAAAABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.horarioTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIBBAAAQAACEKCAAACAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.vistahorarioTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.vistagastoTableAdapter" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.vistaticketTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.ticketTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAACAAcAIAAAAAAAACIICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.dtsisbusTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AZAAAiEICIBARAEBAIggsAAgBAACgAAASAQEFAIABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.My.MyApplication" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sisbuses.My.MySettings" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAQAABEAAAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Sisbuses.drespaldo" Collapsed="true">
+    <Position X="9.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAIABQAAgAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>backup\drespaldo.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dbus" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAFAQBAAAACSEAAAAEIEAAAAIAAIAAIA=</HashCode>
+      <FileName>buses\dbus.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dconductor" Collapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAIgCAAAAAABAQAAAAAAAQAAAABAggwAAACAAAw=</HashCode>
+      <FileName>conductores\dconductor.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.ddescuento" Collapsed="true">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAoADIQIAAAAAQAAIAQAAEAAAAAAAAAAIAAAABgAA=</HashCode>
+      <FileName>descuentos\ddescuento.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.ddestino" Collapsed="true">
+    <Position X="11" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAEAAAAgAAAIAAAEAAAAIAAAAAIAIAAg=</HashCode>
+      <FileName>destinos\ddestino.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.bbusqgastos" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAAAAAQ=</HashCode>
+      <FileName>gastos\bbusqgastos.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dgatos" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgEBAAIAAAAAQEAAAAAAAAAAAgAAAAAAIIAAFAAAE=</HashCode>
+      <FileName>gastos\dgatos.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dconhorario" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>horarios\dconhorario.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dhorario" Collapsed="true">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAQFAABAQAAAAAAAAACAAAAABgAAA=</HashCode>
+      <FileName>horarios\dhorario.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dinforme" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>informes\dinforme.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dlogin" Collapsed="true">
+    <Position X="5.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>login\dlogin.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dopciones" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>opciones\dopciones.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.druta" Collapsed="true">
+    <Position X="11" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEIAAAAAAAACASQAAAAAAgIBCAAAQAgAAAYA=</HashCode>
+      <FileName>rutas\druta.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dconsulticke" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>tickets\dconsulticke.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dticket" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAABAAAAABAAAAAIAAAAEAAAQAAAAAAA=</HashCode>
+      <FileName>tickets\dticket.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.dusuario" Collapsed="true">
+    <Position X="2.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAQAQQAEiAIACAACAAwAABAAAAAAAAAACBBAAA=</HashCode>
+      <FileName>usuarios\dusuario.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.variables" Collapsed="true">
+    <Position X="7.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAEAAQAAAABGAABAQAAIAIAAAAMAABQBDAIAAAAAgA=</HashCode>
+      <FileName>variables.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.My.MySettingsProperty" Collapsed="true">
+    <Position X="4" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Sisbuses.My.Resources.Resources" Collapsed="true">
+    <Position X="5.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAAAAEWYAAAACABEAACUTCAGAD8KBhADAAGEYE=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

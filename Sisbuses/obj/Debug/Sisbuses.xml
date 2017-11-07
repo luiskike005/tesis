@@ -1,0 +1,526 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sisbuses
+</name>
+</assembly>
+<members>
+<member name="T:Sisbuses.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.bac1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.bac2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.bus_256">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.bus_PNG8635">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.bus_PNG8636">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.c1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.c2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.cla1png">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.cla2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.d1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.d2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.dec2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.des1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.g">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.g1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.g2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.images">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.images1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.images2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.índice">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.login">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.logo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.map_route_10854">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.opt1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.opt2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.opt3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.r1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.r2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.reg1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.reg3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.reg4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.reg5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.reg6">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.t1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.t2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.t3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.u1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.u2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sisbuses.My.Resources.Resources.user">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.opcionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.descuentosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.gastosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.rutaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.destinoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.busDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.conductorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.horarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.vistahorarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.vistagastoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.vistaticketDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.ticketDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.opcionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.descuentosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.gastosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.rutaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.destinoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.busRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.conductorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.horarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.vistahorarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.vistagastoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.vistaticketRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.ticketRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.opcionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.descuentosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.gastosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.rutaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.destinoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.busRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.conductorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.horarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.vistahorarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.vistagastoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.vistaticketRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbus.ticketRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.opcionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.descuentosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.gastosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.rutaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.destinoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.busTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.conductorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.horarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.vistahorarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.vistagastoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.vistaticketTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.ticketTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sisbuses.dtsisbusTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sisbuses.dtsisbus,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sisbuses.dtsisbusTableAdapters.TableAdapterManager.UpdateInsertedRows(Sisbuses.dtsisbus,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sisbuses.dtsisbusTableAdapters.TableAdapterManager.UpdateDeletedRows(Sisbuses.dtsisbus,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sisbuses.dtsisbusTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sisbuses.dtsisbusTableAdapters.TableAdapterManager.UpdateAll(Sisbuses.dtsisbus)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sisbuses.dtsisbusTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

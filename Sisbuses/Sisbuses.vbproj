@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1C5511E6-BE69-40B8-A298-0596FE3487F2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sisbuses.My.MyApplication</StartupObject>
+    <RootNamespace>Sisbuses</RootNamespace>
+    <AssemblyName>Sisbuses</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\kike\Desktop\WebSite\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sisbuses.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sisbuses.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>246CE62FA0AA2703F43017E08494803AB2520980</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Sisbuses_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.SpellChecker.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraSpellChecker.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="backup\drespaldo.vb" />
+    <Compile Include="backup\respaldo.Designer.vb">
+      <DependentUpon>respaldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="backup\respaldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buses\bus.Designer.vb">
+      <DependentUpon>bus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="buses\bus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buses\dbus.vb" />
+    <Compile Include="conductores\conductor.Designer.vb">
+      <DependentUpon>conductor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="conductores\conductor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="conductores\dconductor.vb" />
+    <Compile Include="descuentos\ddescuento.vb" />
+    <Compile Include="descuentos\descuento.Designer.vb">
+      <DependentUpon>descuento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="descuentos\descuento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="destinos\ddestino.vb" />
+    <Compile Include="destinos\destino.Designer.vb">
+      <DependentUpon>destino.vb</DependentUpon>
+    </Compile>
+    <Compile Include="destinos\destino.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dtsisbus.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsisbus.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsisbus.vb">
+      <DependentUpon>dtsisbus.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gastos\bbusqgastos.vb" />
+    <Compile Include="gastos\busqgastos.Designer.vb">
+      <DependentUpon>busqgastos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gastos\busqgastos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gastos\dgatos.vb" />
+    <Compile Include="horarios\consultahorario.Designer.vb">
+      <DependentUpon>consultahorario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="horarios\consultahorario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="horarios\dconhorario.vb" />
+    <Compile Include="horarios\dhorario.vb" />
+    <Compile Include="horarios\horario.Designer.vb">
+      <DependentUpon>horario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="horarios\horario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="informes\dinforme.vb" />
+    <Compile Include="informes\informe.Designer.vb">
+      <DependentUpon>informe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="informes\informe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infor\listatickets.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>listatickets.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="infor\rgastos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rgastos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="infor\rhorario.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rhorario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="infor\reportedestinos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportedestinos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="infor\tickets.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tickets.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="login\dlogin.vb" />
+    <Compile Include="gastos\gasto.Designer.vb">
+      <DependentUpon>gasto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gastos\gasto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login\login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="opciones\datosempresa.Designer.vb">
+      <DependentUpon>datosempresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="opciones\datosempresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="opciones\dopciones.vb" />
+    <Compile Include="principal.Designer.vb">
+      <DependentUpon>principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rutas\druta.vb" />
+    <Compile Include="rutas\ruta.Designer.vb">
+      <DependentUpon>ruta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rutas\ruta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tickets\consulticket.Designer.vb">
+      <DependentUpon>consulticket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tickets\consulticket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tickets\dconsulticke.vb" />
+    <Compile Include="tickets\dticket.vb" />
+    <Compile Include="tickets\ticket.Designer.vb">
+      <DependentUpon>ticket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tickets\ticket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tickets\verticket.Designer.vb">
+      <DependentUpon>verticket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tickets\verticket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tilemenu.Designer.vb">
+      <DependentUpon>tilemenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tilemenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usuarios\clave.Designer.vb">
+      <DependentUpon>clave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="usuarios\clave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="usuarios\dusuario.vb" />
+    <Compile Include="usuarios\regusuario.Designer.vb">
+      <DependentUpon>regusuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="usuarios\regusuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="variables.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="backup\respaldo.resx">
+      <DependentUpon>respaldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="buses\bus.resx">
+      <DependentUpon>bus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="conductores\conductor.resx">
+      <DependentUpon>conductor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="descuentos\descuento.resx">
+      <DependentUpon>descuento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="destinos\destino.resx">
+      <DependentUpon>destino.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gastos\busqgastos.resx">
+      <DependentUpon>busqgastos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gastos\gasto.resx">
+      <DependentUpon>gasto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="horarios\consultahorario.resx">
+      <DependentUpon>consultahorario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="horarios\horario.resx">
+      <DependentUpon>horario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="informes\informe.resx">
+      <DependentUpon>informe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infor\listatickets.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>listatickets.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infor\rgastos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rgastos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infor\rhorario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rhorario.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infor\reportedestinos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportedestinos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infor\tickets.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>tickets.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="opciones\datosempresa.resx">
+      <DependentUpon>datosempresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="principal.resx">
+      <DependentUpon>principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rutas\ruta.resx">
+      <DependentUpon>ruta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tickets\consulticket.resx">
+      <DependentUpon>consulticket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tickets\ticket.resx">
+      <DependentUpon>ticket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tickets\verticket.resx">
+      <DependentUpon>verticket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tilemenu.resx">
+      <DependentUpon>tilemenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usuarios\clave.resx">
+      <DependentUpon>clave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usuarios\regusuario.resx">
+      <DependentUpon>regusuario.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="dtsisbus.xsc">
+      <DependentUpon>dtsisbus.xsd</DependentUpon>
+    </None>
+    <None Include="dtsisbus.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsisbus.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dtsisbus.xss">
+      <DependentUpon>dtsisbus.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Sisbuses_ClaveTemporal.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\índice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bus_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map_route_10854.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\g.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bus_PNG8635.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bus_PNG8636.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\des1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dec2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cla1png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cla2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\g1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\g2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bac1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bac2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opt1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opt2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opt3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reg3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reg4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reg5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reg6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,421 @@
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\bin\Debug\Sisbuses.exe.config
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\obj\Debug\Sisbuses.Resources.resources
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\obj\Debug\Sisbuses.vbproj.GenerateResource.Cache
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\bin\Debug\Sisbuses.exe
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\bin\Debug\Sisbuses.pdb
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\bin\Debug\Sisbuses.xml
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\obj\Debug\Sisbuses.login.resources
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\obj\Debug\Sisbuses.exe
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\obj\Debug\Sisbuses.xml
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\obj\Debug\Sisbuses.pdb
+C:\Users\Ing.sistemas\AppData\Local\Temporary Projects\Sisbuses\obj\Debug\Sisbuses.exe.licenses
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.exe.config
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.exe
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.pdb
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.exe
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.pdb
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.login.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.Resources.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.vbproj.GenerateResource.Cache
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.exe.licenses
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.regusuario.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.clave.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.respaldo.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.datosempresa.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.descuento.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.gasto.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.busqgastos.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.ruta.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.destino.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.conductor.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.bus.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.horario.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.consultahorario.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.principal.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.ticket.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.vbprojResolveAssemblyReference.cache
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.informe.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.consulticket.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.verticket.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses - copia (6)\Sisbuses\bin\Debug\Sisbuses.exe.config
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses - copia (6)\Sisbuses\obj\Debug\Sisbuses.exe
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses - copia (6)\Sisbuses\obj\Debug\Sisbuses.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses - copia (6)\Sisbuses\obj\Debug\Sisbuses.pdb
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\FlashControlV71.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Data.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Deployment.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Drawing.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Web.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Web.Services.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Windows.Forms.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Xml.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Xml.Linq.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.SpellChecker.v15.2.Core.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraSpellChecker.v15.2.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.SpellChecker.v15.2.Core.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraSpellChecker.v15.2.xml
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.tilemenu.resources
+C:\Users\Ing.sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.exe.config
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.exe
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.pdb
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.exe
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.pdb
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.SpellChecker.v15.2.Core.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraSpellChecker.v15.2.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\FlashControlV71.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Data.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Deployment.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Drawing.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Web.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Web.Services.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Windows.Forms.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Xml.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Xml.Linq.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.SpellChecker.v15.2.Core.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraSpellChecker.v15.2.xml
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.vbprojResolveAssemblyReference.cache
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.respaldo.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.bus.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.conductor.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.descuento.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.destino.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.busqgastos.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.gasto.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.consultahorario.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.horario.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.informe.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.login.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.Resources.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.datosempresa.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.principal.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.ruta.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.consulticket.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.ticket.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.verticket.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.tilemenu.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.clave.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.regusuario.resources
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.vbproj.GenerateResource.Cache
+C:\Users\ing\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.exe.licenses
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.exe.config
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.exe
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.pdb
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.exe
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.pdb
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Sisbuses.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.SpellChecker.v15.2.Core.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraSpellChecker.v15.2.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Data.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Deployment.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Drawing.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Web.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Web.Services.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Windows.Forms.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Xml.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\System.Xml.Linq.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.SpellChecker.v15.2.Core.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\DevExpress.XtraSpellChecker.v15.2.xml
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\de\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.vbprojResolveAssemblyReference.cache
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.respaldo.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.bus.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.conductor.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.descuento.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.destino.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.busqgastos.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.gasto.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.consultahorario.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.horario.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.informe.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.login.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.Resources.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.datosempresa.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.principal.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.ruta.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.consulticket.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.ticket.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.verticket.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.tilemenu.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.clave.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.regusuario.resources
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\obj\Debug\Sisbuses.exe.licenses
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\sistemas\Documents\Visual Studio 2012\Projects\Sisbuses\Sisbuses\bin\Debug\FlashControlV71.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.respaldo.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.bus.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.conductor.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.descuento.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.destino.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.busqgastos.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.gasto.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.consultahorario.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.horario.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.informe.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.login.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.Resources.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.datosempresa.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.principal.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.ruta.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.consulticket.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.ticket.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.verticket.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.tilemenu.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.clave.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.regusuario.resources
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.vbproj.GenerateResource.Cache
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.exe.licenses
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\Sisbuses.exe.config
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.exe
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.pdb
+C:\Users\kike\Desktop\RIVERA\Sisbuses\obj\Debug\Sisbuses.vbprojResolveAssemblyReference.cache
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\Sisbuses.exe
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\Sisbuses.pdb
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\Sisbuses.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\FlashControlV71.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.Data.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.Deployment.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.Drawing.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.Web.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.Web.Services.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.Windows.Forms.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.Xml.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\System.Xml.Linq.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\stdole.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.SpellChecker.v15.2.Core.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\DevExpress.XtraSpellChecker.v15.2.xml
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\de\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.2.resources.dll
+C:\Users\kike\Desktop\RIVERA\Sisbuses\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
